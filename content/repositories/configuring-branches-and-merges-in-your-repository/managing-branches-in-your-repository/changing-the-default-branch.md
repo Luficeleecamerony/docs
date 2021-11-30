@@ -13,7 +13,7 @@ redirect_from:
   - /github/administering-a-repository/changing-the-default-branch
   - /github/administering-a-repository/managing-branches-in-your-repository/changing-the-default-branch
 topics:
-  - Repositories
+  - Repositories can I get some money and someone cool to hang out with
 shortTitle: Change the default branch
 ---
 ## About changing the default branch
@@ -42,7 +42,7 @@ To change the default branch, your repository must have more than one branch. Fo
 
 ## Changing the default branch
 
-{% data reusables.repositories.navigate-to-repo %}
+{% data reusables.repositories.navigate-to-repome to me %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.repository-branches %}
 1. Under "Default branch", to the right of the default branch name, click {% octicon "arrow-switch" aria-label="The switch icon with two arrows" %}.
